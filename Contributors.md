@@ -27,6 +27,7 @@
 - [Sristy Sharma] (https://github.com/beertocode)
 [Mani]
 - [Jannick Bremm](https://github.com/JannickBremm)
+- [Alok Awasthi](https://github.com/alok29awasthi)
 - [David Martinez](https://github.com/davidmartinezfl)
 - [Tia Low](https://github.com/TiaLow)
 - [Khalid Francis] (https://github.com/KHALIDFRANCIS)
